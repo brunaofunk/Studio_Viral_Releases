@@ -1,6 +1,8 @@
 {
-  "version": "1.2.5",
-  "download_url": "https://github.com/brunaofunk/Studio_Viral_Releases/releases/download/v1.2.5/StudioViral_Update.exe",
-  "release_notes": "Versão inicial do Studio Viral",
-  "file_size": 0
+  "version": "1.2.7",
+  "download_url": "https://github.com/brunaofunk/Studio_Viral_Releases/releases/download/v1.2.7/StudioViral_Update.exe",
+  "patch_url": "https://github.com/brunaofunk/Studio_Viral_Releases/releases/download/v1.2.7/patch_v1.2.7.zip",
+  "release_notes": "Versão inicial do Studio Viral com sistema de patch",
+  "file_size": 0,
+  "patch_size": 356058853
 }
